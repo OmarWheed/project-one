@@ -1,0 +1,4 @@
+note.txt
+*.exe
+!app2.exe
+node/
